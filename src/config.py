@@ -4,8 +4,8 @@ sys.path += ["../lib/praw"]
 import logging
 
 # General Settings
-username = "NotVeryCleverBot"
-useragent = "NotVeryCleverBot thread response predictor by /u/pipeep"
+username = "NVCBTestingBot"
+useragent = "NVCBTestingBot thread response predictor by /u/pipeep"
 footer = "\n\n---\n*^^I'm ^^a ^^thread ^^response ^^predicting ^^bot ^^in " \
          "^^testing. ^^Let ^^me ^^know ^^how ^^I'm ^^doing. " \
          "[^^Original ^^Thread.](%s) ^^Here's ^^my " \
